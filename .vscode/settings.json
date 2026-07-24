@@ -3,4 +3,7 @@
     "workbench.colorTheme": "Noctis Viola",
     "window.zoomLevel": 1.5,
     "editor.fontSize": 18,
+    "editor.tabSize": 16,
+    "liveServer.settings.port": 5501,
+    "editor.wordwrap": "on",
 }
